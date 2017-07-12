@@ -7,3 +7,12 @@ C:\users\eddie\documents\code\testcode\obj\Debug\netcoreapp1.1\TestCode.csprojRe
 C:\users\eddie\documents\code\testcode\obj\Debug\netcoreapp1.1\TestCode.AssemblyInfo.cs
 C:\users\eddie\documents\code\testcode\obj\Debug\netcoreapp1.1\TestCode.dll
 C:\users\eddie\documents\code\testcode\obj\Debug\netcoreapp1.1\TestCode.pdb
+C:\users\eddie\documents\github\Task-1.4\bin\Debug\netcoreapp1.1\TestCode.deps.json
+C:\users\eddie\documents\github\Task-1.4\bin\Debug\netcoreapp1.1\TestCode.runtimeconfig.json
+C:\users\eddie\documents\github\Task-1.4\bin\Debug\netcoreapp1.1\TestCode.runtimeconfig.dev.json
+C:\users\eddie\documents\github\Task-1.4\bin\Debug\netcoreapp1.1\TestCode.dll
+C:\users\eddie\documents\github\Task-1.4\bin\Debug\netcoreapp1.1\TestCode.pdb
+C:\users\eddie\documents\github\Task-1.4\obj\Debug\netcoreapp1.1\TestCode.csprojResolveAssemblyReference.cache
+C:\users\eddie\documents\github\Task-1.4\obj\Debug\netcoreapp1.1\TestCode.AssemblyInfo.cs
+C:\users\eddie\documents\github\Task-1.4\obj\Debug\netcoreapp1.1\TestCode.dll
+C:\users\eddie\documents\github\Task-1.4\obj\Debug\netcoreapp1.1\TestCode.pdb
