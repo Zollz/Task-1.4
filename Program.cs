@@ -9,7 +9,7 @@ public class Program
         Window firstWindow;
         firstWindow = new Window("Animation", 1280, 720);
 
-        Bitmap animation1 = new Bitmap("animation1", "breed_picture.png");
+        Bitmap animation10 = new Bitmap("animation1", "breed_picture.png");
         Bitmap animation2 = new Bitmap("animation2", "Shiba.png");
         Bitmap animation3 = new Bitmap("animation3", "Shiba.png");
         Bitmap animation4 = new Bitmap("animation4", "Shiba.png");
