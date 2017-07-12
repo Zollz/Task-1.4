@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Eddie\\Documents\\Code\\TestCode\\TestCode.csproj",
+    "projectName": "TestCode",
+    "projectPath": "C:\\Users\\Eddie\\Documents\\Code\\TestCode\\TestCode.csproj",
+    "outputPath": "C:\\Users\\Eddie\\Documents\\Code\\TestCode\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        }
+      }
+    }
+  }
+}
