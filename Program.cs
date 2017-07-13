@@ -44,7 +44,7 @@ public class Program
         firstWindow.Clear(Color.White);
         firstWindow.DrawBitmap(sprite2, 150, 150);
         firstWindow.Refresh(60);
-        SplashKit.Delay(500);
+        SplashKit.Delay(5000);
         
         firstWindow.Clear(Color.White);
         firstWindow.DrawBitmap(sprite3, 150, 150);
